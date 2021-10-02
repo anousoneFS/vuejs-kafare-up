@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kafare_up
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vuejs-kafare-up
+ເຮັດເວັບຂາຍກາເຟ ໂດຍໃຊ້ vuejs, vuetify, vue-x, firebase
+>>>>>>> a332da6e1ec24b705079f5bdcdce9e148e3966dc
